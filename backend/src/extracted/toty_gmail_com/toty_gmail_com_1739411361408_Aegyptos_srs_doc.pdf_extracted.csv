@@ -1,0 +1,51 @@
+filename,requirement,label
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The user shall be able to create an account.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The user could be a resident or a tourist.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The user shall be able to select the language to be translated into.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The system shall segment hieroglyphic symbols from a scanned image.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The user must have some basic knowledge of how to use a smartphone.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The admin should have some basic knowledge of Administrator roles (CRUD operations).,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,"The user shall be able to access the camera through the application to scan Hieroglyphics
+symbols for translation.",Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The admin shall be able to view all users.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The admin shall be able to manage the data of the system.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The user can access the application whether he has an internet connection or not.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The user can be of any age group.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The user can slide the phone’s camera on the picture for real-time translation.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The system shall be able to classify each Hieroglyphic symbol.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The user shall be able to Login and have access to his/her account.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The user shall be able to listen to the scanned Ancient Egyptian text.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The system shall be able to detect the Hieroglyphic symbol’s direction.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The user can sign-up or log in to access the mobile application.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,"The user will position the camera at the hieroglyphic writing in order to obtain a
+picture of what he wants to understand from it.",Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The user shall be able to upload an image from his/her device for translation.,Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,"The user can view their previously uploaded or scanned image translations and then store
+their preferred translations.",Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,"The system shall be able to search data through a matching algorithm
+•ID:15 The system shall provide a precise translation in different languages.",Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,"The user must have some basic English knowledge as it will be the default language of the mobile
+application.",Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,"The admin shall be able to create, edit and delete a User account.",Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,4 Usability:,Non-Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,3 Reliability:,Non-Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,2 Performance:,Non-Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,The system,Non-Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,1 Security:,Non-Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,"5 EfficientNet
+EfficientNet is a Convolutional Neural Network that has multiple versions, signifying scalability, starting
+from EfficientNetB0 until EfficientNetB7",Non-Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,"4 Usability:
+Anyone, starting with teenagers interested in hieroglyphs, can use the application to learn their language
+because it has a user-friendly layout",Non-Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,"Scalability is very important when it comes
+to deep learning classifiers",Non-Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,"1 Security:
+Each user will need a unique email and password to get into the application, and that password will be a
+hashed password",Non-Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,"3 Reliability:
+Additionally, applying the squeezeNet algorithm will be faster and more accurate than using any other
+technique, with a 92% accuracy rate",Non-Functional
+toty_gmail_com_1739411361408_Aegyptos_srs_doc.pdf,"2 Performance:
+Moving on to the performance, it won’t take long to translate the hieroglyphs and show them to the user
+because they will be translated instantly",Non-Functional

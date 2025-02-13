@@ -1,0 +1,21 @@
+filename,requirement,label
+moz_gmail_com_1739398748738_Brain Decoding using EEG Signals Software Requirement Specification Document.pdf,The system may be accessed over the world wide web.,Functional
+moz_gmail_com_1739398748738_Brain Decoding using EEG Signals Software Requirement Specification Document.pdf,The user must have an internet connection to access the application.,Functional
+moz_gmail_com_1739398748738_Brain Decoding using EEG Signals Software Requirement Specification Document.pdf,"The application shall have a user-friendly view, and the interface should be easily
+used by the users.",Functional
+moz_gmail_com_1739398748738_Brain Decoding using EEG Signals Software Requirement Specification Document.pdf,The application shall have a rapid response time for all the user actions.,Functional
+moz_gmail_com_1739398748738_Brain Decoding using EEG Signals Software Requirement Specification Document.pdf,The user must be able to see into his own head and know what is going on there.,Functional
+moz_gmail_com_1739398748738_Brain Decoding using EEG Signals Software Requirement Specification Document.pdf,"Then, classification models will be
+used to sort them into groups according to the model’s predicted performance",Non-Functional
+moz_gmail_com_1739398748738_Brain Decoding using EEG Signals Software Requirement Specification Document.pdf,"11
+6 Non-functional Requirements
+• Usability: The application shall have a user-friendly view, and the interface should be easily
+used by the users",Non-Functional
+moz_gmail_com_1739398748738_Brain Decoding using EEG Signals Software Requirement Specification Document.pdf,The system,Non-Functional
+moz_gmail_com_1739398748738_Brain Decoding using EEG Signals Software Requirement Specification Document.pdf,"• Availability: In order for users to make use of the program, it must be available at all times",Non-Functional
+moz_gmail_com_1739398748738_Brain Decoding using EEG Signals Software Requirement Specification Document.pdf,• Efficiency: minimum use of resources (memory),Non-Functional
+moz_gmail_com_1739398748738_Brain Decoding using EEG Signals Software Requirement Specification Document.pdf,"2 Business Applications
+• Vibre[6]: is a young company with a focus on improving workplace security via the use of
+neurotechnologies",Non-Functional
+moz_gmail_com_1739398748738_Brain Decoding using EEG Signals Software Requirement Specification Document.pdf,• Portability: The system may be accessed over the world wide web,Non-Functional
+moz_gmail_com_1739398748738_Brain Decoding using EEG Signals Software Requirement Specification Document.pdf,The application,Non-Functional

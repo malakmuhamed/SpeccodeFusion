@@ -1,0 +1,666 @@
+filename,requirement,label
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The user will be directed to the camera where an appropriate image will be taken then the user will
+hear an audio of text present in the image.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The user will have the option to start
+and stop the audio.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The user can
+choose what he wants to be recognized as either object, text, or face.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to upload image from mobile gallery.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The user will use face recognition to login or sign-up to the system and will be able to use pre-
+deﬁned voice commands that control certain features.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The user can read text from
+images by the photo to speech feature, Egyptian banknotes could be identiﬁed and the amount of
+money the user carries.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to hear an identiﬁcation of the food in the captured image.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to hear an the amount of money in the captured image.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The admin can view the information saved about the users, edit the information
+or delete a user from the application.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The application shall be easily maintained as the features integrated into it could be upgraded indi-
+vidually without the need to interrupt the overall cycle of the application.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The system can also identify
+eleven different colors which are red, orange, yellow, green, cyan, blue, purple, pink, black, grey,
+and white.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The system must be reliable when performing its operations.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to login using facial recognition.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The application can be used by any number of
+users and an admin will have access to the application through the admin side.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The admin can view all the users registered in the system.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The application will redirect to the dashboard the contains the list of users present in the system.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The application should be highly secure with the information entered when the user register in the
+application.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to log out.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The user will be directed to the
+camera where an appropriate image will be taken through the input video stream taken by the
+camera.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The admin shall be able to edit users’ information.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The admin shall be able to logout.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The admin shall be able to view users’ information.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The system should be accessed across all platforms.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to capture an image with the help of the system.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to sign up.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to hear the audio menu.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The application shall allow users to use speciﬁc voice commands to access the
+application’s functionalities and have all the produced output be converted to audio to be heard by
+the user.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The user shall be able to hear an identiﬁcation of the color and pattern of an article of cloth
+in the captured image.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The application should correctly
+detect the objects present in the image and the output from the processing should produce the most
+accurate result.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The user will be directed to the camera where an appropriate image will be
+taken through the input video stream taken by the camera.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The admin shall be able to remove users from the system.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The system may be denied access to camera.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The application shall produce audible output that correctly translates the output of
+the processed image to the user, and be able to correctly catch the audio commands given by the
+user.",Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The admin shall be able to login.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The system should be available at any network and any mobile phone at any time.,Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The system,Non-Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,The application,Non-Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"3 Usability
+The system functionalities shall not be hard for the visually impaired to use as the system could be
+easily navigated",Non-Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"1 Security
+The application should be highly secure with the information entered when the user register in the
+application",Non-Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"“Analysing the mental model of blind users in mobile
+touch screen devices for usability”",Non-Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"7 Availability
+The system should be available at any network and any mobile phone at any time",Non-Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"The overall performance
+of the application shall be recorded to allow for improvement of the performance",Non-Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"2 Reliability
+The system must be reliable when performing its operations",Non-Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"5 Portability
+The system should be accessed across all platforms",Non-Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"6 Scailability
+The system should be highly scalable as it should be easily scaled up or down without interrupting
+the overall performance",Non-Functional
+1739070125343_VisuallyImpairedAssistant_srs_doc.pdf,"4 Maintainability
+The application shall be easily maintained as the features integrated into it could be upgraded indi-
+vidually without the need to interrupt the overall cycle of the application",Non-Functional
+1739136584523_TrainIt_SRS_Document.pdf,"The system could be implemented on dierent operating systems such as An-
+droid or iOS.",Functional
+1739136584523_TrainIt_SRS_Document.pdf,"The system shall be able to process a huge number of points (x,y,z) per window.",Functional
+1739136584523_TrainIt_SRS_Document.pdf,"The user should be able
+to trust the system as it aims for high accuracy to insure the correct and good
+experience of training.",Functional
+1739136584523_TrainIt_SRS_Document.pdf,"The system should be highly scalable as we are dealing with many techniques
+of playing and training for table tennis strokes.",Functional
+1739136584523_TrainIt_SRS_Document.pdf,The system will detect joints using Kinect sensor and smart band sensors.,Functional
+1739136584523_TrainIt_SRS_Document.pdf,"The system will detect the whole stroke movements according to dierent
+parts of the body.",Functional
+1739136584523_TrainIt_SRS_Document.pdf,"The system
+will also be helpful for users that aims to self-learn the basics of the game.",Functional
+1739136584523_TrainIt_SRS_Document.pdf,The system,Non-Functional
+1739136584523_TrainIt_SRS_Document.pdf,"3 Usability
+Proportion of functionalities or tasks mastered doesn't need time to be learned",Non-Functional
+1739136584523_TrainIt_SRS_Document.pdf,"3 Scenario 3
+A table tennis player wants to practice alone after the training, so he can easily
+put the set up, play and analyze himself and monitor his performance after
+26
+playing for a couple of hours through the mobile application that shows his
+analytics and full report",Non-Functional
+1739136584523_TrainIt_SRS_Document.pdf,"1 GUI
+Figure 8: Daily Report about
+the player performance
+Figure 9: Real-time monitor-
+ing Window about player move-
+ments
+21
+Figure 10: Augmented reality glasses
+4",Non-Functional
+1739136584523_TrainIt_SRS_Document.pdf,"5 Maintainability
+The system ensures ease of maintainability through the implementation of MVC",Non-Functional
+1739136584523_TrainIt_SRS_Document.pdf,"22
+5 Performance Requirements
+The system shall be able to process a huge number of points (x,y,z) per window",Non-Functional
+1739136584523_TrainIt_SRS_Document.pdf,"2 Scalability
+The system should be highly scalable as we are dealing with many techniques
+of playing and training for table tennis strokes",Non-Functional
+1739136584523_TrainIt_SRS_Document.pdf,"6 Portability
+The system could be implemented on dierent operating systems such as An-
+droid or iOS",Non-Functional
+1739136584523_TrainIt_SRS_Document.pdf,"The users will get tips
+and guidance points on how to improve and enhance their performance",Non-Functional
+1739136584523_TrainIt_SRS_Document.pdf,"1 Performance and Speed
+As the system deals with many techniques of playing, it must be interactive
+and the detection and classication must have no delays to give a reliable online
+feedback",Non-Functional
+1739136584523_TrainIt_SRS_Document.pdf,"Otherwise, the
+stroke will be classied as unknown movement
+Output Stroke Classied result
+Precondition Array of cutted strokes(FR38) and ltered strokes (FR37)
+Post-condition Database is updated and stroke marked as classied
+Dependencies FR36 , FR37 , FR38
+Title Create Report
+ID FR36
+Description This function is for the coach to create a full reports about
+the players after training periods
+Type Void
+Input Player object and Stroke Classied object
+Action If the inputs are not empty the report will be generated
+Output -
+Precondition The coach choose player to create report on
+Post-condition Report will be shown on the screen for the coach
+Dependencies -
+19
+Title Calculate Performance
+ID FR37
+Description This function calculate the the performance of the player
+according to the results of the correct strokes and wrong
+strokes played
+Type Performance object
+Input Object from player results
+Action Calculate the number of correct stroke and wrong and cal-
+culate the total performance of the player
+Output Object from performance
+Precondition Check if the player has result record is database
+Post-condition Calculate the player performance
+Dependencies FR15, FR20
+20
+4 Interface Requirements
+4",Non-Functional
+1739136584523_TrainIt_SRS_Document.pdf,"Our aim is to develop a full guiding system
+that's supposed to help the athletes/users enhance their performance in play-
+ing table tennis",Non-Functional
+1739136584523_TrainIt_SRS_Document.pdf,"Type Returns Array
+Input user type ID's required to be listed
+Action Retrieving all information about the user
+Output Array by each user's data
+Precondition check if the user exists
+Post-condition -
+Dependencies FR05
+Function Search User
+ID FR08
+Description This Function res up a query to search for user ID in users
+table
+Type Returns Array
+Input array of user data
+Action Check the user information and return the user ID that was
+searched for
+Output Array of user's data
+Precondition Check if the user exists
+Post-condition -
+Dependencies FR05
+Function Update User
+ID FR09
+Description This Function res up a query to users table for updating
+the user data according to the user ID
+Type Boolean
+Input user ID to be updated
+Action Check if the user data is updated and return true else it
+returns false to show error message
+Output if user updated
+Precondition Check if the user exists
+Post-condition update the system database row of the user in users table
+Dependencies FR05
+10
+Title Get Address
+ID FR10
+Description This Function is to get the address of the user and save it
+in address table in the database
+Type array
+Input -
+Action Check if the address is lled and validated
+Output array of address object
+Precondition Check if the user exists
+Post-condition Inserting an address record with the ID of user in address
+table in the database
+Dependencies FR05
+Title Create User Type
+ID FR11
+Description This Function is to add new user type to the system in the
+database
+Type Boolean
+Input User type name
+Action Checks if the user type name is validated, if so it enters the
+user type record in the database and returns true else it
+returns false to show error message
+Output if usertype created
+Precondition Check if the user type exists
+Post-condition Creating a new row in the database table with new ID for
+the user type
+Dependencies -
+Title Delete User Type
+ID FR12
+Description This Function is to delete the selected user type row from
+user type table in database
+Type Boolean
+Input ID of the user type selected to be removed
+Action Check if the user type id exists in the database to delete it
+Output if usertype deleted
+Precondition the selected user type needed to be removed
+Post-condition Updating the database by removing the user type id row
+from the user type table
+Dependencies -
+11
+Title List User Types
+ID FR13
+Description This function for listing all the user types that exists in the
+database
+Type returns array
+Input -
+Action Retrieving all user types in the database
+Output array by each user type
+Precondition check if the user type exists
+Post-condition -
+Dependencies FR11
+Title Update User Types
+ID FR14
+Description This Function is for updating the user types according to
+the ID if there were any changes or modications
+Type Boolean
+Input User type ID to be updated
+Action Check if the user type is updated and return true else it
+returns false to show error message
+Output if user type updated
+Precondition check if the user type exists
+Post-condition Update the system database row of the user type in user
+type table
+Dependencies FR11
+Title Create Player
+ID FR15
+Description This Function called after FR05 which adds a new player
+record to the system's database from the coach module
+Type Boolean
+Input Player object
+Action Check if FR05 is red and that all elds in the Player ob-
+ject are lled then insert a new record to the database and
+returns true
+Output if player created
+Precondition the player's information needed to be entered is inserted in
+its write place and validated
+Post-condition A new player's record is created with new ID for the player
+Dependencies FR05
+12
+Title Delete Player
+ID FR16
+Description This function called after FR06 which deletes the player
+record in the database
+Type Boolean
+Input Player object
+Action Check if FR06 is red and The player's record exists in the
+database to delete it
+Output player's record is deleted and returns true, else returns false
+to show error message
+Precondition select the player to be deleted
+Post-condition The record of the player is deleted from the database
+Dependencies FR00 , FR01 , FR05 , FR06 , FR10
+Title List Players
+ID FR17
+Description This function is called after FR07 which lists the players
+records in the database
+Type return array
+Input player object to be listed
+Action Check if FR07 is red and list all the information about the
+player
+Output Array by each player's data
+Precondition Check if the player exists
+Post-condition -
+Dependencies FR00 , FR01 , FR05 , FR07 , FR10
+Title Search Player
+ID FR18
+Description This Function called after FR08 which searches for player's
+record in the database
+Type return array
+Input player object
+Action Check if FR08 is red up and then search for the player's
+ID
+Output Array of player's data
+Precondition Check if the player exists
+Post-condition -
+Dependencies FR00 , FR01 , FR05 , FR08 , FR10
+13
+Title Update Player
+ID FR19
+Description This Function called after FR09 which updates the existing
+player's information in the database
+Type Boolean
+Input Player object
+Action Check if FR09 is red up and The player data is updated
+Output if user is updated returns true, else it returns false to show
+error message
+Precondition Check if the player exists
+Post-condition The record of the player is updated in the database
+Dependencies FR00 , FR01 , FR05 , FR09 , FR10
+Title Start training
+ID FR20
+Description functions classies the strokes and get all strokes played and
+store with its timestamp
+Type Void
+Input start Training TimeStamp and array of strokes
+Action if inputs does not equal to null then functions starts classi-
+cation and storing data into database
+Output -
+Precondition player press start training button
+Post-condition stroke classied and player notied and database records are
+added
+Dependencies -
+Title End Training
+ID FR21
+Description functions stops (FR20) and get out a full report about the
+performance through training period
+Type Object
+Input end Training TimeStamp and array of strokes
+Action if FR20 is red, the function stops it
+Output object of Report class
+Precondition FR20 to be red
+Post-condition a report will be viewed to the coach and player
+Dependencies FR20
+14
+Title View Prole
+ID FR22
+Description This Function is for the user to view his/her prole that
+contain all the data existed in the database
+Type return array
+Input User Type object
+Action Check if FR11 is red and retrieve all the data of the user
+Output Array by each user's data
+Precondition Check if the user exists
+Post-condition -
+Dependencies FR11
+Title Create Club
+ID FR23
+Description This Function is to add new club record in the database to
+assign it to players
+Type Boolean
+Input Club object
+Action Check if the club's name , address and rate are validated
+and if so it inserted in the database and returns true else it
+returns false to show error message",Non-Functional
+1739136584523_TrainIt_SRS_Document.pdf,"4 Reliability
+The system is reliable",Non-Functional
+1739136605461_TrainIt_SRS_Document.pdf,"The system could be implemented on dierent operating systems such as An-
+droid or iOS.",Functional
+1739136605461_TrainIt_SRS_Document.pdf,"The system shall be able to process a huge number of points (x,y,z) per window.",Functional
+1739136605461_TrainIt_SRS_Document.pdf,"The user should be able
+to trust the system as it aims for high accuracy to insure the correct and good
+experience of training.",Functional
+1739136605461_TrainIt_SRS_Document.pdf,"The system should be highly scalable as we are dealing with many techniques
+of playing and training for table tennis strokes.",Functional
+1739136605461_TrainIt_SRS_Document.pdf,The system will detect joints using Kinect sensor and smart band sensors.,Functional
+1739136605461_TrainIt_SRS_Document.pdf,"The system will detect the whole stroke movements according to dierent
+parts of the body.",Functional
+1739136605461_TrainIt_SRS_Document.pdf,"The system
+will also be helpful for users that aims to self-learn the basics of the game.",Functional
+1739136605461_TrainIt_SRS_Document.pdf,The system,Non-Functional
+1739136605461_TrainIt_SRS_Document.pdf,"3 Usability
+Proportion of functionalities or tasks mastered doesn't need time to be learned",Non-Functional
+1739136605461_TrainIt_SRS_Document.pdf,"3 Scenario 3
+A table tennis player wants to practice alone after the training, so he can easily
+put the set up, play and analyze himself and monitor his performance after
+26
+playing for a couple of hours through the mobile application that shows his
+analytics and full report",Non-Functional
+1739136605461_TrainIt_SRS_Document.pdf,"1 GUI
+Figure 8: Daily Report about
+the player performance
+Figure 9: Real-time monitor-
+ing Window about player move-
+ments
+21
+Figure 10: Augmented reality glasses
+4",Non-Functional
+1739136605461_TrainIt_SRS_Document.pdf,"5 Maintainability
+The system ensures ease of maintainability through the implementation of MVC",Non-Functional
+1739136605461_TrainIt_SRS_Document.pdf,"22
+5 Performance Requirements
+The system shall be able to process a huge number of points (x,y,z) per window",Non-Functional
+1739136605461_TrainIt_SRS_Document.pdf,"2 Scalability
+The system should be highly scalable as we are dealing with many techniques
+of playing and training for table tennis strokes",Non-Functional
+1739136605461_TrainIt_SRS_Document.pdf,"6 Portability
+The system could be implemented on dierent operating systems such as An-
+droid or iOS",Non-Functional
+1739136605461_TrainIt_SRS_Document.pdf,"The users will get tips
+and guidance points on how to improve and enhance their performance",Non-Functional
+1739136605461_TrainIt_SRS_Document.pdf,"1 Performance and Speed
+As the system deals with many techniques of playing, it must be interactive
+and the detection and classication must have no delays to give a reliable online
+feedback",Non-Functional
+1739136605461_TrainIt_SRS_Document.pdf,"Otherwise, the
+stroke will be classied as unknown movement
+Output Stroke Classied result
+Precondition Array of cutted strokes(FR38) and ltered strokes (FR37)
+Post-condition Database is updated and stroke marked as classied
+Dependencies FR36 , FR37 , FR38
+Title Create Report
+ID FR36
+Description This function is for the coach to create a full reports about
+the players after training periods
+Type Void
+Input Player object and Stroke Classied object
+Action If the inputs are not empty the report will be generated
+Output -
+Precondition The coach choose player to create report on
+Post-condition Report will be shown on the screen for the coach
+Dependencies -
+19
+Title Calculate Performance
+ID FR37
+Description This function calculate the the performance of the player
+according to the results of the correct strokes and wrong
+strokes played
+Type Performance object
+Input Object from player results
+Action Calculate the number of correct stroke and wrong and cal-
+culate the total performance of the player
+Output Object from performance
+Precondition Check if the player has result record is database
+Post-condition Calculate the player performance
+Dependencies FR15, FR20
+20
+4 Interface Requirements
+4",Non-Functional
+1739136605461_TrainIt_SRS_Document.pdf,"Our aim is to develop a full guiding system
+that's supposed to help the athletes/users enhance their performance in play-
+ing table tennis",Non-Functional
+1739136605461_TrainIt_SRS_Document.pdf,"Type Returns Array
+Input user type ID's required to be listed
+Action Retrieving all information about the user
+Output Array by each user's data
+Precondition check if the user exists
+Post-condition -
+Dependencies FR05
+Function Search User
+ID FR08
+Description This Function res up a query to search for user ID in users
+table
+Type Returns Array
+Input array of user data
+Action Check the user information and return the user ID that was
+searched for
+Output Array of user's data
+Precondition Check if the user exists
+Post-condition -
+Dependencies FR05
+Function Update User
+ID FR09
+Description This Function res up a query to users table for updating
+the user data according to the user ID
+Type Boolean
+Input user ID to be updated
+Action Check if the user data is updated and return true else it
+returns false to show error message
+Output if user updated
+Precondition Check if the user exists
+Post-condition update the system database row of the user in users table
+Dependencies FR05
+10
+Title Get Address
+ID FR10
+Description This Function is to get the address of the user and save it
+in address table in the database
+Type array
+Input -
+Action Check if the address is lled and validated
+Output array of address object
+Precondition Check if the user exists
+Post-condition Inserting an address record with the ID of user in address
+table in the database
+Dependencies FR05
+Title Create User Type
+ID FR11
+Description This Function is to add new user type to the system in the
+database
+Type Boolean
+Input User type name
+Action Checks if the user type name is validated, if so it enters the
+user type record in the database and returns true else it
+returns false to show error message
+Output if usertype created
+Precondition Check if the user type exists
+Post-condition Creating a new row in the database table with new ID for
+the user type
+Dependencies -
+Title Delete User Type
+ID FR12
+Description This Function is to delete the selected user type row from
+user type table in database
+Type Boolean
+Input ID of the user type selected to be removed
+Action Check if the user type id exists in the database to delete it
+Output if usertype deleted
+Precondition the selected user type needed to be removed
+Post-condition Updating the database by removing the user type id row
+from the user type table
+Dependencies -
+11
+Title List User Types
+ID FR13
+Description This function for listing all the user types that exists in the
+database
+Type returns array
+Input -
+Action Retrieving all user types in the database
+Output array by each user type
+Precondition check if the user type exists
+Post-condition -
+Dependencies FR11
+Title Update User Types
+ID FR14
+Description This Function is for updating the user types according to
+the ID if there were any changes or modications
+Type Boolean
+Input User type ID to be updated
+Action Check if the user type is updated and return true else it
+returns false to show error message
+Output if user type updated
+Precondition check if the user type exists
+Post-condition Update the system database row of the user type in user
+type table
+Dependencies FR11
+Title Create Player
+ID FR15
+Description This Function called after FR05 which adds a new player
+record to the system's database from the coach module
+Type Boolean
+Input Player object
+Action Check if FR05 is red and that all elds in the Player ob-
+ject are lled then insert a new record to the database and
+returns true
+Output if player created
+Precondition the player's information needed to be entered is inserted in
+its write place and validated
+Post-condition A new player's record is created with new ID for the player
+Dependencies FR05
+12
+Title Delete Player
+ID FR16
+Description This function called after FR06 which deletes the player
+record in the database
+Type Boolean
+Input Player object
+Action Check if FR06 is red and The player's record exists in the
+database to delete it
+Output player's record is deleted and returns true, else returns false
+to show error message
+Precondition select the player to be deleted
+Post-condition The record of the player is deleted from the database
+Dependencies FR00 , FR01 , FR05 , FR06 , FR10
+Title List Players
+ID FR17
+Description This function is called after FR07 which lists the players
+records in the database
+Type return array
+Input player object to be listed
+Action Check if FR07 is red and list all the information about the
+player
+Output Array by each player's data
+Precondition Check if the player exists
+Post-condition -
+Dependencies FR00 , FR01 , FR05 , FR07 , FR10
+Title Search Player
+ID FR18
+Description This Function called after FR08 which searches for player's
+record in the database
+Type return array
+Input player object
+Action Check if FR08 is red up and then search for the player's
+ID
+Output Array of player's data
+Precondition Check if the player exists
+Post-condition -
+Dependencies FR00 , FR01 , FR05 , FR08 , FR10
+13
+Title Update Player
+ID FR19
+Description This Function called after FR09 which updates the existing
+player's information in the database
+Type Boolean
+Input Player object
+Action Check if FR09 is red up and The player data is updated
+Output if user is updated returns true, else it returns false to show
+error message
+Precondition Check if the player exists
+Post-condition The record of the player is updated in the database
+Dependencies FR00 , FR01 , FR05 , FR09 , FR10
+Title Start training
+ID FR20
+Description functions classies the strokes and get all strokes played and
+store with its timestamp
+Type Void
+Input start Training TimeStamp and array of strokes
+Action if inputs does not equal to null then functions starts classi-
+cation and storing data into database
+Output -
+Precondition player press start training button
+Post-condition stroke classied and player notied and database records are
+added
+Dependencies -
+Title End Training
+ID FR21
+Description functions stops (FR20) and get out a full report about the
+performance through training period
+Type Object
+Input end Training TimeStamp and array of strokes
+Action if FR20 is red, the function stops it
+Output object of Report class
+Precondition FR20 to be red
+Post-condition a report will be viewed to the coach and player
+Dependencies FR20
+14
+Title View Prole
+ID FR22
+Description This Function is for the user to view his/her prole that
+contain all the data existed in the database
+Type return array
+Input User Type object
+Action Check if FR11 is red and retrieve all the data of the user
+Output Array by each user's data
+Precondition Check if the user exists
+Post-condition -
+Dependencies FR11
+Title Create Club
+ID FR23
+Description This Function is to add new club record in the database to
+assign it to players
+Type Boolean
+Input Club object
+Action Check if the club's name , address and rate are validated
+and if so it inserted in the database and returns true else it
+returns false to show error message",Non-Functional
+1739136605461_TrainIt_SRS_Document.pdf,"4 Reliability
+The system is reliable",Non-Functional

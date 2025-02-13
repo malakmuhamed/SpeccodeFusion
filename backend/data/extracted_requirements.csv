@@ -1,0 +1,1020 @@
+filename,requirement,label
+Safe Social-Distancing SRS Document.pdf,"The application will help the user stay safe by trying to make sure he only passes through places
+that are not crowded and by giving him alternative paths or routes to go for when the user tries to
+go for a place.",Functional
+Safe Social-Distancing SRS Document.pdf,The system will offer to the user alternative paths if the path is crowded.,Functional
+Safe Social-Distancing SRS Document.pdf,"The application must be easy to use and have a simple interface in order to be easy for users to
+interact with.",Functional
+Safe Social-Distancing SRS Document.pdf,The system will offer to the user paths to his chosen destination.,Functional
+Safe Social-Distancing SRS Document.pdf,The application,Non-Functional
+Safe Social-Distancing SRS Document.pdf,"4 Maintainability
+Our application is maintainable so the same team can easily maintain the application and get the
+same output, no need for two teams iOS team and Android team to get the required output",Non-Functional
+Safe Social-Distancing SRS Document.pdf,"Results: After doing some experiments using the QRFC and NV A, it concluded that both methods
+are easily implemented into smartphones and they have the same performance and accuracy, how-
+ever, QRFC took much less time than that required for static sampling (SS), also researchers see
+that in the future, QRFC will be the most important technique for signal sampling",Non-Functional
+Safe Social-Distancing SRS Document.pdf,"Speciﬁc models were tested
+and contrasted based on their capabilities using performance metrics such as CDF curve, MAE,
+RSME, and Euclidean distance error",Non-Functional
+Safe Social-Distancing SRS Document.pdf,"3 Reliability
+Our application works on real time database, so it will be secure and there is no chance for failure",Non-Functional
+Safe Social-Distancing SRS Document.pdf,"5 Portability
+Our application is a ﬂutter application (cross platform application) in which users can install either
+on iOS or Android operating systems",Non-Functional
+Safe Social-Distancing SRS Document.pdf,"2 Performance and Speed
+Performance is not an issue when it comes to our application, it can work perfectly and smoothly
+on any smartphone",Non-Functional
+Safe Social-Distancing SRS Document.pdf,"Results: As a result for this experiment, researchers found that the performance of the Long-short
+term memory network better than Ada boosting, XG boosting , multiplayer perception and Gradi-
+ent boosting",Non-Functional
+Safe Social-Distancing SRS Document.pdf,"1 Security
+Our system is secure and works on preventing user breaches",Non-Functional
+Safe Social-Distancing SRS Document.pdf,"OS-ELM makes use of ELM
+which can provide great generalization performance at a very fast learning speed",Non-Functional
+SRS-1.pdf,"priority 10/10
+Code NFR2
+name commented code
+type maintainance requirement
+description the source code must be commented to guarentee a better maintainance
+of the software which translate also into upgradability
+priority 10/10
+Code NFR3
+name system security
+type security requirement
+description Checking for unallowed strings entered in the the login form which
+will stop several mysql injection attacks , also the password of the user
+will be encrypted in the database",Non-Functional
+SRS-1.pdf,"priority 9/10
+Code NFR5
+name memory size used
+type Portability requirement
+description the software must occupy the minimum amount of space on the hard disk
+priority 10/10
+7 Preliminary Object-Oriented Domain Analy-
+sis
+7",Non-Functional
+SRS-1.pdf,"3 Communications Interfaces
+5 Performance Requirements
+Enhances The speed by uploading the code on the Google cloud which helps in
+reducing processing time",Non-Functional
+SRS-1.pdf,"Raspbian is highly optimized for the Raspberry
+Pi line's low-performance ARM CPUs",Non-Functional
+SRS-1.pdf,"priority 10/10
+9
+Code NFR4
+name user manual
+type usability requirement
+description there must be a user manual written for the nal users using simple and
+understandable language that elaborates how the system works",Non-Functional
+SWE03_SRS_Doc.pdf,The system should be easily maintainable.,Functional
+SWE03_SRS_Doc.pdf,The system must have a user-friendly interface.,Functional
+SWE03_SRS_Doc.pdf,The system must adhere to accessibility standards.,Functional
+SWE03_SRS_Doc.pdf,The system must be available 24/7.,Functional
+SWE03_SRS_Doc.pdf,The system must have low response times.,Functional
+SWE03_SRS_Doc.pdf,"The user shall be able to Login as a prerequisite before accessing system functionalities
+• The user shall be able to participate in the screening test, after login
+• The user shall be able to view the classified screening test results, following the screening
+test
+• The user shall be able to view report summarizing the screening test results, following the
+screening test
+• The user shall be able to choose personalized educational content to support learning
+• The user shall be able to launch lessons through an internal service that automates the
+extraction of main keywords from selected content, thus preparing it for tutoring
+• The user shall be able to engage in learning lessons tailored to their specific needs using
+personalized games and activities
+13
+4.",Functional
+SWE03_SRS_Doc.pdf,"However, the absence of information on
+data and metrics for evaluating the system’s performance poses a limitation",Non-Functional
+SWE03_SRS_Doc.pdf,"6 Other Constraints As Appropriate
+Require internet access for users to utilize the system, ensuring connectivity for effective utilization
+6 Non-functional Requirements
+•Usability:
+Requirement: The system must have a user-friendly interface",Non-Functional
+SWE03_SRS_Doc.pdf,The system,Non-Functional
+SWE03_SRS_Doc.pdf,"•Availability:
+Requirement: The system must be available 24/7",Non-Functional
+SWE03_SRS_Doc.pdf,"5 Scalability
+Design the system to be scalable, accommodating future updates, additional features, and an
+expanding user base without compromising performance, an example practice is Adopting a
+microservices architecture to decouple components and allow independent scaling",Non-Functional
+SWE03_SRS_Doc.pdf,"Reason: To ensure constant access for dyslexic individuals with varied schedules
+•Performance:
+Requirement: The system must deliver optimal performance, with minimal latency",Non-Functional
+SWE03_SRS_Doc.pdf,"3 Device Compatibility
+Optimize the system for compatibility with prevalent devices, including smartphones and tablets,
+ensuring widespread accessibility",Non-Functional
+SWE03_SRS_Doc.pdf,5 Scalability,Non-Functional
+SWE03_SRS_Doc.pdf,"•Maintainability:
+Requirement: The system should be easily maintainable",Non-Functional
+SWE03_SRS_Doc.pdf,3 Device Compatibility,Non-Functional
+SWE03_SRS_Doc.pdf,"1 Synthesis Tutor
+Synthesis Tutor is an innovative digital tutoring system developed at Ad Astra on the SpaceX
+campus, designed to emulate human teaching methods in mathematics, offering continuous
+availability",Non-Functional
+SWE04_SRS_Doc.pdf,"The system will have the ability to generate back-end code through the interpretation of UML class
+diagram.",Functional
+SWE04_SRS_Doc.pdf,"By
+automatically establishing a well-defined project structure, developers can dive into coding without
+the need for manual setup, enhancing overall efficiency in the early stages of application development",Non-Functional
+SWE04_SRS_Doc.pdf,"The research also delves into usability testing and A/B testing to mea-
+sure the effectiveness of the prototype",Non-Functional
+SWE04_SRS_Doc.pdf,"The reality of
+established industry practices for UX and UI designers collaborating with front-end developers still leaves
+a lot to improve in terms of effectiveness and efficiency",Non-Functional
+SWE04_SRS_Doc.pdf,"By
+automating the code generation from user interface prototypes, the approach aims to add flexibility, respon-
+siveness, and efficiency in web development[9]",Non-Functional
+SWE04_SRS_Doc.pdf,"This collection of mini features ensures a holistic and user-friendly
+development experience, promoting efficiency and code quality throughout the project life cycle",Non-Functional
+SWE04_SRS_Doc.pdf,"discussing the capability of such tools and evaluating
+their quality and efficiency",Non-Functional
+SWE04_SRS_Doc.pdf,"Efficiency is critical, particularly
+for large and complex design projects where eager code generation is required",Non-Functional
+SWE04_SRS_Doc.pdf,"In an industry where efficiency and innovation are valued greatly, maintaining an advantageous
+position in the race against time means staying ahead of the competition",Non-Functional
+SWE04_SRS_Doc.pdf,• Ensure scalability of MetaMorph for projects of different sizes and complexities,Non-Functional
+SWE04_SRS_Doc.pdf,Achieve a scalability rating of 90% or higher in user testing within six months,Non-Functional
+SWE04_SRS_Doc.pdf,"This approach involves generating code automatically from UML diagrams, which can po-
+tentially increase efficiency and accuracy in software development",Non-Functional
+SWE04_SRS_Doc.pdf,"This approach can significantly
+improve the efficiency and quality of web development, as it reduces the manual effort required to create
+web components and ensures consistency and maintainability of the UI design",Non-Functional
+SWE04_SRS_Doc.pdf,"2 Business
+A continuous pursuit for maximum efficiency characterizes the software development environment",Non-Functional
+SWE04_SRS_Doc.pdf,"1 Objectives
+• We will reduce the time required for MetaMorph users to generate front-end code from design layers
+in Figma by 30%, enhancing the efficiency of the design-to-code process",Non-Functional
+SWE04_SRS_Doc.pdf,"Stronger security
+measures to protect important design assets, better prototyping capabilities, and better user input integra-
+tion are all possible enhancements for these technologies",Non-Functional
+SWE06_SRS_Doc.pdf,"The user could give commands outside the camera scope, the system
+will respond with a warning message on the screen that it can’t detect his hand.",Functional
+SWE06_SRS_Doc.pdf,"The user could write an invalid email address, in this case the system
+will notify him that he should use valid one The user could write a mismatch passwords, in
+this case the system sends him a message that passwords didn’t match.",Functional
+SWE06_SRS_Doc.pdf,"The user may forget what hand gestures he chose and what action
+mapped to them -he will get confused- or he might click on the same action that should
+be taken for more than one gesture, the system here won’t allow the user to choose an action
+he chose previously for another gesture.",Functional
+SWE06_SRS_Doc.pdf,The system will be able to recognize the user’s hand gestures.,Functional
+SWE06_SRS_Doc.pdf,"The system will be able to map the user’s image pixel
+coordinates to real-world coordinates.",Functional
+SWE06_SRS_Doc.pdf,The system will be able to track user’s hand.,Functional
+SWE06_SRS_Doc.pdf,"The user must have a laptop with the software running on it, a camera -whether it’s going to be the
+built-in laptop camera or an external camera like his mobile camera- to detect the user’s face and
+hand gestures, in addition to a projector to present his content on a flat surface.",Functional
+SWE06_SRS_Doc.pdf,"The system will use the customized gestures for the user that
+his face has been detected.",Functional
+SWE06_SRS_Doc.pdf,"The system will be able to recognize the user’s face through its
+features, and this is done by using YOLOv5.",Functional
+SWE06_SRS_Doc.pdf,"The system will include:
+• Gesture Recognition.",Functional
+SWE06_SRS_Doc.pdf,"The system will use the customized gestures chose by the user
+for later interaction.",Functional
+SWE06_SRS_Doc.pdf,"The system must analyze gestures and reflect the corresponding action on the pro-
+jected interface with very low latency.",Functional
+SWE06_SRS_Doc.pdf,"•Compatibility with Hardware: The software is compatible with common and most projec-
+tors and cameras",Non-Functional
+SWE06_SRS_Doc.pdf,The system,Non-Functional
+SWE06_SRS_Doc.pdf,"•Performance: Gestify system should analyze gestures/clicks and reflect the corresponding
+actions on the projected interface with very low latency, in addition to analyzing faces",Non-Functional
+SWE06_SRS_Doc.pdf,"•Reliability: Minimize false clicks, false face detection, and false hand gesture errors during
+use",Non-Functional
+SWE06_SRS_Doc.pdf,"Additionally, touch point projectors find it challenging to work effectively in
+different places, limiting their flexibility",Non-Functional
+SWE06_SRS_Doc.pdf,"14
+•Usability: It should provide an easy-to-use simple interface for end users",Non-Functional
+SWE07_SRS_DOC.pdf,"The user shall be able to login to their account
+•Id:03 The user shall be able to edit his profile
+•Id:04 The user shall be able to logout
+•Id:05 The user shall be able to upload images to predict a 3D Model
+•Id:06 The user should be able to upload images to show their emotions.",Functional
+SWE07_SRS_DOC.pdf,The user shall be able to sign Up to create a new account .,Functional
+SWE07_SRS_DOC.pdf,The user will have a conversation with the digital twin through a speech-to-text feature.,Functional
+SWE07_SRS_DOC.pdf,The user can interact with the avatar by texting or voice chatting giving commands or questions.,Functional
+SWE07_SRS_DOC.pdf,The application will be available on Play store for android users and App store for iOS users.,Functional
+SWE07_SRS_DOC.pdf,"The user will have to answer some questions to analyze their
+personality while this operation our system will record his voice to use it in the voice cloning.",Functional
+SWE07_SRS_DOC.pdf,"The user will upload an image, then the system will process the
+image and generate a lifelike 3D digital twin avatar based on the image.",Functional
+SWE07_SRS_DOC.pdf,The system should be developed in a user-friendly.,Functional
+SWE07_SRS_DOC.pdf,The user will record their voice to make their avatar have the same voice.,Functional
+SWE07_SRS_DOC.pdf,The system should be offered in any language.,Functional
+SWE07_SRS_DOC.pdf,The user will have the ability to customize the avatar look.,Functional
+SWE07_SRS_DOC.pdf,The system should be fully automated as much as possible for users.,Functional
+SWE07_SRS_DOC.pdf,The system should be simple and easy to understand for user.,Functional
+SWE07_SRS_DOC.pdf,"The admin will log in by entering the username and password and then, find all user’s avatars and
+how active each user is.",Functional
+SWE07_SRS_DOC.pdf,"The system will respond to the user’s questions through an AI model using a provider called
+GPT-4 model for natural language processing is state-of-the-art.",Functional
+SWE07_SRS_DOC.pdf,"The system shall make the avatar respond on user’s input by voice
+•Id:19 The system shall understand and contextualizes User’s input
+13
+4.",Functional
+SWE07_SRS_DOC.pdf,"The user must have a smartphone connected to the internet, with a working camera to be able
+to take pictures of themselves or a photo for the beloved ones from their devices to upload it to
+the system.",Functional
+SWE07_SRS_DOC.pdf,"The user can upload a file of their voice to make their avatar have the same voice or to their beloved
+ones.",Functional
+SWE07_SRS_DOC.pdf,"The user shall be able answer some questions with voice
+•Id:08 The user shall be able to choose their avatar
+•Id:09 The user shall be able to customize their avatar
+•Id:10 The user shall be able to create more than one avatar
+•Id:11 the user shall be able to upload their voice
+•Id:12 The user shall be able to speak with the avatar
+•Id:13 The user shall be able to text with the avatar
+•Id:14 The system shall clone the user’s voice
+•Id:15 The system shall make the avatar adapt on the user
+•Id:16 The system shall create the avatar based on user requirements
+•Id:17 The system shall make the avatar express emotions based on images and conversations.",Functional
+SWE07_SRS_DOC.pdf,The system,Non-Functional
+SWE07_SRS_DOC.pdf,4 Availability,Non-Functional
+SWE07_SRS_DOC.pdf,"5 Usability
+The system should be developed in a user-friendly",Non-Functional
+SWE07_SRS_DOC.pdf,"1 Academic
+In,QLORA [2], The main goal of the QLORA method is to preserve excellent performance levels
+while using less memory",Non-Functional
+SWE07_SRS_DOC.pdf,"The accuracy of each model is discussed in the study, with special
+attention paid to the 33B Guanaco model’s performance, which can be trained in less than 12 hours
+on consumer GPUs with 24 GB of RAM",Non-Functional
+SWE07_SRS_DOC.pdf,"2 Reliability
+The user information will be kept in the database and is always up to date it can not lost and always
+be obtained from the administrator with the user’s permission",Non-Functional
+SWE07_SRS_DOC.pdf,"4 Availability
+The application will be available on Play store for android users and App store for iOS users",Non-Functional
+SWE07_SRS_DOC.pdf,1 Security,Non-Functional
+SWE07_SRS_DOC.pdf,"Also, the paper discuss the detailed of dataset
+used to evaluate the performance of LLM(Large Language Model) in various NLP tasks",Non-Functional
+SWE07_SRS_DOC.pdf,"All of this is to
+ensure user privacy and data security",Non-Functional
+SWE07_SRS_DOC.pdf,"Integrating chat-bots
+4
+into the business will increase the efficiency of every customer also, as known chat-bots can gather
+valuable collection insights into customer behavior and preferences which can handle a lot of issues
+for the customer",Non-Functional
+SWE07_SRS_DOC.pdf,"1 Security
+The user registration process the system will encrypt the password when the user login",Non-Functional
+SWE07_SRS_DOC.pdf,2 Reliability,Non-Functional
+SWE07_SRS_DOC.pdf,5 Usability,Non-Functional
+SWE07_SRS_DOC.pdf,"Ad-
+ditionally, they adjusted their base model in several ways to determine the importance of different
+Transformer components by analyzing the change in translation performance from English to Ger-
+man",Non-Functional
+SWE07_SRS_DOC.pdf,"The
+paper also, reports the zero-shot performance of LLM on these datasets which means that mod-
+els are evaluated on tasks they havn not trained on",Non-Functional
+SWE08_SRS_Doc.pdf,The system will accept certain types of files.,Functional
+SWE08_SRS_Doc.pdf,"The system will only accept certain types of files (PDF, PPTX, docx) for lecture content.",Functional
+SWE08_SRS_Doc.pdf,"The system must integrate advanced Natural Language Processing (NLP) techniques for
+analyzing lecture content.",Functional
+SWE08_SRS_Doc.pdf,The system will require internet connection to work.,Functional
+SWE08_SRS_Doc.pdf,The system will only accept English language material.,Functional
+SWE08_SRS_Doc.pdf,The system will generate questions with the model answers.,Functional
+SWE08_SRS_Doc.pdf,The system will have a maximum allowable size for uploaded files.,Functional
+SWE08_SRS_Doc.pdf,"The system must operate within the legal and ethical boundaries of educational technology
+and assessment practices.",Functional
+SWE08_SRS_Doc.pdf,"The system will support three types of questions (MCQ, Essay, T/F).",Functional
+SWE08_SRS_Doc.pdf,The system will store questions with their model answers in the question bank.,Functional
+SWE08_SRS_Doc.pdf,The system will accept files until a certain size limit.,Functional
+SWE08_SRS_Doc.pdf,"1 Security
+Restrict access to the system according to Moodle user roles",Non-Functional
+SWE08_SRS_Doc.pdf,"Ensuring consistent
+performance and availability upon varying conditions",Non-Functional
+SWE08_SRS_Doc.pdf,"• The system follows industry-standard security practices to protect against unauthorized ac-
+cess and data breaches",Non-Functional
+SWE08_SRS_Doc.pdf,"3 Performance
+Response time for question generation should be within acceptable limits",Non-Functional
+SWE08_SRS_Doc.pdf,5 Scalability,Non-Functional
+SWE08_SRS_Doc.pdf,2 Usability,Non-Functional
+SWE08_SRS_Doc.pdf,3 Performance,Non-Functional
+SWE08_SRS_Doc.pdf,"Security mechanisms enable restricted access based on Moodle user roles, and the user-friendly
+interface improves usability",Non-Functional
+SWE08_SRS_Doc.pdf,"•Time efficiency and workload reduction: By automating the traditionally exhausting pro-
+cess of creating questions, our system saves instructors a significant amount of time and
+lessens their workload",Non-Functional
+SWE08_SRS_Doc.pdf,The system,Non-Functional
+SWE08_SRS_Doc.pdf,"4 Compatibility
+Only supported file types can be uploaded to the lecture upload module",Non-Functional
+SWE08_SRS_Doc.pdf,"6 Reliability
+Design the system to continue working, in the presence of faults or errors",Non-Functional
+SWE08_SRS_Doc.pdf,"Performance optimization, compatibility testing, and scalability
+concerns contribute to a dependable and efficient system",Non-Functional
+SWE08_SRS_Doc.pdf,"1 Standards Compliance
+• The system follows standards set by Moodle for seamless integration, ensuring compatibility
+and efficient data exchange",Non-Functional
+SWE08_SRS_Doc.pdf,1 Security,Non-Functional
+SWE08_SRS_Doc.pdf,"Together with
+other similar systems, Quizgecko contributes to streamlining assessment processes and enhancing
+the efficiency of educational practices",Non-Functional
+SWE08_SRS_Doc.pdf,7 Maintainability,Non-Functional
+SWE08_SRS_Doc.pdf,"2 Usability
+The user interface should be intuitive and user-friendly",Non-Functional
+SWE08_SRS_Doc.pdf,"This innovative addition will improve the
+efficacy and efficiency of assessment procedures by optimizing the process of creating automated
+exams",Non-Functional
+SWE08_SRS_Doc.pdf,"7 Maintainability
+Specify the best code standards and practices such as SOLID Principles to guarantee long-term
+maintainability and easier bug fixes",Non-Functional
+SWE08_SRS_Doc.pdf,"1 Definitions, Acronyms, Abbreviations
+MCQ: Multiple-Choice Question - T/F: True/False
+NLP: Natural Language Processing
+LMS: Learning Management System
+SRS: Software Requirements Specification
+UI:User Interface
+KPIs: Key Performance Indicators
+11",Non-Functional
+SWE08_SRS_Doc.pdf,4 Compatibility,Non-Functional
+SWE08_SRS_Doc.pdf,"5 Scalability
+A huge well-optimized database is to be created to store all the question banks generated for each
+course",Non-Functional
+SWE08_SRS_Doc.pdf,6 Reliability,Non-Functional
+SWE09_SRS_Doc.pdf,"The system shall utilize the Spacy Python library to accurately extract relevant CV content
+using natural language processing.",Functional
+SWE09_SRS_Doc.pdf,The system should be up and running 99.,Functional
+SWE09_SRS_Doc.pdf,"The system shall use ChatGPT to verify the applicant’s answers against model answers for
+screening questions and record the outcomes for every screening question.",Functional
+SWE09_SRS_Doc.pdf,"The system shall create an approach that uses cosine similarity and Jaccard similarity to
+compare the parsed CV and the required job vacancy to determine the degree of fit and
+provide a percentage rating of the applicant’s suitability.",Functional
+SWE09_SRS_Doc.pdf,6 Usability:,Non-Functional
+SWE09_SRS_Doc.pdf,7 Maintainability:,Non-Functional
+SWE09_SRS_Doc.pdf,"The classifier that had the highest performance, Support Vector Machine
+(SVM)-Linear SVC, achieved a true class prediction accuracy of over 98%",Non-Functional
+SWE09_SRS_Doc.pdf,"The primary objective is to classify resumes according to job cat-
+egories and enhance the efficiency of the classification process",Non-Functional
+SWE09_SRS_Doc.pdf,"20
+6 Non-functional Requirements
+These non-functional guidelines describe the characteristics and qualities that support the general
+effectiveness, dependability, and security of ResuFit",Non-Functional
+SWE09_SRS_Doc.pdf,1 Performance:,Non-Functional
+SWE09_SRS_Doc.pdf,"Furthermore, the primary emphasis of the
+5
+study was placed on assessing total accuracy as a performance indicator, while neglecting
+the examination of alternative assessment metrics",Non-Functional
+SWE09_SRS_Doc.pdf,"3 Security:
+• Data Encryption: Encrypting all data communications, including CV submissions and vali-
+dation results, requires the use of industry-standard protocols",Non-Functional
+SWE09_SRS_Doc.pdf,2 Reliability:,Non-Functional
+SWE09_SRS_Doc.pdf,The system,Non-Functional
+SWE09_SRS_Doc.pdf,"6 Usability:
+• User Interface Clarity: The user interface must be easy to use and give applicants and re-
+cruiters clear instructions and help",Non-Functional
+SWE09_SRS_Doc.pdf,"7 Maintainability:
+• Code Maintainability: Code should be modular, follow best practices for coding, and have
+extensive documentation to facilitate maintenance",Non-Functional
+SWE09_SRS_Doc.pdf,"The performance of these techniques was assessed using measures such as overall accuracy,
+F-Score, precision, and recall",Non-Functional
+SWE09_SRS_Doc.pdf,5 Scalability:,Non-Functional
+SWE09_SRS_Doc.pdf,"• The system shall create an algorithm that takes the average of the CV ranking and the vali-
+dation of the screening questions to determine the outcome and present the result as a total
+score that represents the applicant’s overall compatibility",Non-Functional
+SWE09_SRS_Doc.pdf,"They serve as the main goals for evaluating
+the system’s performance and ensuring a dependable and understandable solution",Non-Functional
+SWE09_SRS_Doc.pdf,"1 Performance:
+• Response Time: To ensure a smooth and efficient user experience, the system must respond
+to user input in less than two seconds",Non-Functional
+SWE09_SRS_Doc.pdf,"2 Reliability:
+• Availability: The system should be up and running 99",Non-Functional
+SWE09_SRS_Doc.pdf,"8 Compatibility:
+• Cross-browser compatibility: The majority of web browsers, including Edge, Firefox, Safari,
+and Chrome, ought to work with the system",Non-Functional
+SWE09_SRS_Doc.pdf,3 Security:,Non-Functional
+SWE09_SRS_Doc.pdf,"• Scalability: The system must support at least 100 concurrent users without exhibiting a
+discernible decrease in performance",Non-Functional
+SWE09_SRS_Doc.pdf,8 Compatibility:,Non-Functional
+SWE09_SRS_Doc.pdf,"Further research may also be possible in the do-
+mains of the suggested method’s scalability and computational efficiency",Non-Functional
+SWE09_SRS_Doc.pdf,"The
+research demonstrated notable improvements in the accuracy and performance of resume
+categorization",Non-Functional
+SWE09_SRS_Doc.pdf,"The researchers
+also employed the Linear Support Vector Machine (SVM) classifier, which exhibited supe-
+rior performance compared to other classifiers",Non-Functional
+SWE09_SRS_Doc.pdf,"5 Scalability:
+• Database Scalability: The database must be designed to grow along with the volume of CVS
+and assessment data that are gathered",Non-Functional
+SWE10_SRS_DOC.pdf,"The system should be available 24/7, except during scheduled main-
+tenance windows.",Functional
+SWE10_SRS_DOC.pdf,The system should have a 99.,Functional
+SWE10_SRS_DOC.pdf,"The system should facilitate user access, facilitate easy updates and
+maintenance, ensure well-documented code, and establish a knowl-
+edge transfer plan for developers and support staff.",Functional
+SWE10_SRS_DOC.pdf,"The user can select to add voice over for characters dialogue, captions and
+background music/sounds to make the story more entertaining and give it some life.",Functional
+SWE10_SRS_DOC.pdf,The user shall be able to Sign Up on the system.,Functional
+SWE10_SRS_DOC.pdf,"The system must follow ethical constraints and privacy standards through
+the implementation of data handling practices.",Functional
+SWE10_SRS_DOC.pdf,"Reliability
+The system should be available 24/7, except during scheduled main-
+tenance windows",Non-Functional
+SWE10_SRS_DOC.pdf,The system,Non-Functional
+SWE10_SRS_DOC.pdf,"Licensing and usage of external
+APIs should adhere to legal and ethical standardsCompliance
+The system should have robust monitoring tools in place to track
+resource utilization, identify performance bottlenecks, and generate
+logs for auditing purposes",Non-Functional
+SWE10_SRS_DOC.pdf,"Security
+The system should facilitate user access, facilitate easy updates and
+maintenance, ensure well-documented code, and establish a knowl-
+edge transfer plan for developers and support staff",Non-Functional
+SWE10_SRS_DOC.pdf,"1 Standards Compliance
+WordReel respects industry guidelines and especially usability and accessibility",Non-Functional
+SWE10_SRS_DOC.pdf,"Input User selection of download format
+Output Downloaded video in the chosen format
+Pre-condition Successfully generated video
+Post-condition User downloads the selected video
+Dependency Real-time Preview and Editing
+Risk Compatibility issues with download formats
+5 Design Constraints
+The Design restrictions of WordReel exist in the demand of real-time processing",Non-Functional
+SWE10_SRS_DOC.pdf,"Input Text input in different languages and formats
+Output Processed and standardized text input
+Pre-condition User provides text input
+Post-condition Text input is accepted and ready for analysis
+Dependency TAU
+Risk Language compatibility issues, input format inconsistencies
+Name Text Analysis and Understanding
+Code TAU
+Priority Critical
+Description AI model comprehends the semantics and context of input text, extracts entities, sentiment, and keywords",Non-Functional
+SWE10_SRS_DOC.pdf,"Maintainability
+The user interface should be intuitive and user-friendly, requiring
+minimal training for users to operate",Non-Functional
+SWE10_SRS_DOC.pdf,"WordReel meets
+performance benchmarks for its real-time data processing and embracing user interoperability stan-
+dards to allow seamless integration with external tools, APIs and platforms",Non-Functional
+SWE10_SRS_DOC.pdf,"Input User-provided username, password, recovery information
+Output User account status, authentication tokens
+Pre-condition User registration
+Post-condition Successful user authentication
+Dependency None
+Risk Unauthorized access, security vulnerabilities
+Name User Dashboard
+Code UD
+Priority High
+Description User-friendly dashboard displaying created videos, drafts, settings, and activity log",Non-Functional
+SWE10_SRS_DOC.pdf,"Scalability
+The system should have a 99",Non-Functional
+SWE10_SRS_DOC.pdf,"Alerts should be set up to notify adminis-
+trators of abnormal system behavior or performance issuesPerformance Monitoring
+Adaptability focuses on the system’s capability to evolve and accom-
+modate changes in technology, user requirements, or business needs
+without major disruptions",Non-Functional
+SWE10_SRS_DOC.pdf,"The system should comply
+with accessibility standards to ensure usability for users with disabil-
+itiesUsability
+The system should comply with relevant data protection regulations
+(e",Non-Functional
+SWE10_SRS_DOC.pdf,"Input User-requested edits, modifications
+Output Updated video preview after edits
+Pre-condition Successfully generated video
+Post-condition User saves edited video
+Dependency OO
+Risk Editing errors, system performance issues
+Name Text Input Handling
+Code TIH
+Priority High
+Description System accepts plain text input in multiple languages and formats",Non-Functional
+SWE10_SRS_DOC.pdf,Complexity and Efficiency are crucial,Non-Functional
+SWE10_SRS_DOC.pdf,"13
+6 Non-functional Requirements
+Non-functional Requirements Quality Attribute
+The system should generate a 5-Response time for user interactions
+with the UI should be less than 1 secondPerformance
+The system must support 100 concurrent users without significant
+performance degradation, and its architecture must be scalable to
+handle increased text prompts and user requests",Non-Functional
+SWE10_SRS_DOC.pdf,"Prevailing AI ethics is applied to promote trust, reliability of
+the system and security",Non-Functional
+SWE10_SRS_DOC.pdf,"These limitations highlight the importance of functionality
+balancing and hardware capabilities to ensure optimal performance",Non-Functional
+SWE11_SRS_Doc.pdf,"The user must start by signing up using
+email, password, name, and phone number(optional).",Functional
+SWE11_SRS_Doc.pdf,"The user should be connected to internet either wifi or mobile data
+6 Non-functional Requirements
+6.",Functional
+SWE11_SRS_Doc.pdf,"The admin can modify user details, reset passwords, or deactivate accounts if necessary.",Functional
+SWE11_SRS_Doc.pdf,The user can tap on an incident to view details or take further actions.,Functional
+SWE11_SRS_Doc.pdf,"The user will access the system
+Pre-condition None
+Post condition If data has no errors send them to sign up
+Dependency There is no Dependency in this step
+Risk If the sign-up doesn’t work or let the user sign in, then the user won’t be able to access the application
+Table 3: Login
+name Login
+Code (F01)
+Priority High
+Critical User should have an account to access the application
+Description The user enters some input to login
+Input user name and password
+Output The user will view the home page of the application
+Pre-condition user must already have a created account
+Post condition If found go to the homepage if not say that email or password is incorrect
+Dependency (F01)
+Risk If the login doesn’t work or let the user login, the user should check that the entered username and password are correct
+16
+Table 4: Submit Crime
+name Submit Crime
+Code (F07)
+Priority High
+Critical User should have access to the map to post a crime
+Description User should have an account and access the map to post a crime and add a description, upload a picture for validation
+Input Picture with description and location get from the application automatically
+Output The data of the post will be added to the database and validating to be available on the map and dashboard
+Pre-condition User must submit crime description with picture and location
+Post condition If the input of the user have no errors it will be validated and saved in database
+Dependency (F01)
+Risk No risk in this step
+Table 5: Chat with Admins
+name Chat with Admins
+Code (F12)
+Priority Moderate
+Critical User can chat with admins if the user is facing any emergencies
+Description User should have an account and face any type of crimes and need any support
+Input Only chat and location will be automatically taken from the device of the user
+Output The admins will connect police with the user to support the user
+Pre-condition The user is facing a crime
+Post condition Police connected to the user to solve the problem
+Dependency (F07)
+Risk User is faking the crime
+Table 6: Crime Shown in Dashboard
+name Dashboard Show
+Code (F14)
+Priority High
+Critical System should show all crimes in the dashboard
+Description After validating the crimes, the system should retrieve all crime details from the database and post it in the dashboard
+Input The crime submitted by the user
+Output The crime appears in the dashboard
+Pre-condition none
+Post condition Dashboard started to be filled with all validated crimes
+Dependency (F07)
+Risk No risk
+17
+Table 7: Crime Pin in Map
+name Map Pin
+Code (F15)
+Priority High
+Critical System should show all crimes in the map as pins
+Description After validating the crimes, the system should retrieve all crime details from the database and show it in the map as pins
+Input The crime submitted by the user
+Output The crime appears in the map as a pin
+Pre-condition none
+Post condition Map started to be filled with all validated crimes
+Dependency (F07)
+Risk No risk
+Table 8: Safe Route Generation
+name Safe Route Generation
+Code (F16)
+Priority High
+Critical System should generate a safe route for users
+Description After validating the crimes on the map, the system generates routes with fewer crimes and safer paths
+Input The crime pins on the map
+Output The route with a low percentage of crimes
+Pre-condition The normal route where the user may face any type of crimes
+Post condition Safe route generated for the user with the same destination
+Dependency (F15)
+Risk There are many crimes in many different routes
+Table 9: Validate Crimes with Pictures
+name Image Processing
+Code (F17)
+Priority High
+Critical Image process the uploaded image
+Description Image processing the uploaded image by the user to validate the crime and detect the type of crime
+Input Image
+Output Validation of the crimes with crime type
+Pre-condition The crime is submitted without the validation
+Post condition Crimes validated with their type
+Dependency (F08)
+Risk Untrained types of images
+18
+5 Design Constraints
+5.",Functional
+SWE11_SRS_Doc.pdf,The application should work fast without any errors or delays or system failure.,Functional
+SWE11_SRS_Doc.pdf,"The application must not cause any error or system failure while the system is being devel-
+oped.",Functional
+SWE11_SRS_Doc.pdf,"5 usability
+• The application is easy to use",Non-Functional
+SWE11_SRS_Doc.pdf,The application,Non-Functional
+SWE11_SRS_Doc.pdf,"[5]
+Feasible Criminal Identification using Image Recognition This paper presents a facial recog-
+nition system to identify criminals and aims to enhance the accuracy and efficiency of law en-
+forcement",Non-Functional
+SWE11_SRS_Doc.pdf,"4 Performance
+• The application should work fast without any errors or delays or system failure",Non-Functional
+SWE11_SRS_Doc.pdf,"1 security
+• The data must be secured in order for the System to be available everywhere, reliable, se-
+cured
+• login by email or phone number and receive verification code",Non-Functional
+SWE11_SRS_Doc.pdf,"The researchers rigorously tested SafeShe to ensure its reliability
+and efficiency",Non-Functional
+SWE11_SRS_Doc.pdf,"This
+paper lacks security measures information and user feedback validation",Non-Functional
+SWE11_SRS_Doc.pdf,"3 Availability
+• The System is permanently available at all times for users or visitors to be accessed",Non-Functional
+Tourism-SRS.pdf,"The application must be interactive and fast to let the tourist choose what he
+desires.",Functional
+Tourism-SRS.pdf,"The user should make sure that he is connected to the internet, then he will
+start to create an account on our application server.",Functional
+Tourism-SRS.pdf,The system will split text into separate words.,Functional
+Tourism-SRS.pdf,The admin should be connected to the server through an internet connection.,Functional
+Tourism-SRS.pdf,The application,Non-Functional
+Tourism-SRS.pdf,"3 Scalability
+The Application is scalable",Non-Functional
+Tourism-SRS.pdf,"1 Performance and Speed
+The application must be interactive and fast to let the tourist choose what he
+desires",Non-Functional
+Tourism-SRS.pdf,"In 2016 IEEE 18th International Conference
+on High Performance Computing and Communications; IEEE 14th Inter-
+national Conference on Smart City; IEEE 2nd International Conference
+on Data Science and Systems",Non-Functional
+Tourism-SRS.pdf,"Then he will
+choose a national park and a screen will appear to the user with all data of his
+chosen national park like prices, description, if any security papers or conditions
+will be provided throw this screen",Non-Functional
+Tourism-SRS.pdf,"2 Reliability
+The application is reliable",Non-Functional
+Tourism-SRS.pdf,"7 Software Interfaces
+Android Studio
+Arc Gis
+Pycharm
+4 Performance Requirements
+Species speed and memory requirements",Non-Functional
+Tourism-SRS.pdf,"5 Portability
+The Application is Portability",Non-Functional
+Tourism-SRS.pdf,"4 Usability
+Proportion of functionalities or tasks mastered doesn't need time to be learned",Non-Functional
+TrainIt_SRS_Document.pdf,"The system will detect the whole stroke movements according to dierent
+parts of the body.",Functional
+TrainIt_SRS_Document.pdf,"The system could be implemented on dierent operating systems such as An-
+droid or iOS.",Functional
+TrainIt_SRS_Document.pdf,"The system shall be able to process a huge number of points (x,y,z) per window.",Functional
+TrainIt_SRS_Document.pdf,"The user should be able
+to trust the system as it aims for high accuracy to insure the correct and good
+experience of training.",Functional
+TrainIt_SRS_Document.pdf,"The system
+will also be helpful for users that aims to self-learn the basics of the game.",Functional
+TrainIt_SRS_Document.pdf,The system will detect joints using Kinect sensor and smart band sensors.,Functional
+TrainIt_SRS_Document.pdf,"The system should be highly scalable as we are dealing with many techniques
+of playing and training for table tennis strokes.",Functional
+TrainIt_SRS_Document.pdf,"The users will get tips
+and guidance points on how to improve and enhance their performance",Non-Functional
+TrainIt_SRS_Document.pdf,"Type Returns Array
+Input user type ID's required to be listed
+Action Retrieving all information about the user
+Output Array by each user's data
+Precondition check if the user exists
+Post-condition -
+Dependencies FR05
+Function Search User
+ID FR08
+Description This Function res up a query to search for user ID in users
+table
+Type Returns Array
+Input array of user data
+Action Check the user information and return the user ID that was
+searched for
+Output Array of user's data
+Precondition Check if the user exists
+Post-condition -
+Dependencies FR05
+Function Update User
+ID FR09
+Description This Function res up a query to users table for updating
+the user data according to the user ID
+Type Boolean
+Input user ID to be updated
+Action Check if the user data is updated and return true else it
+returns false to show error message
+Output if user updated
+Precondition Check if the user exists
+Post-condition update the system database row of the user in users table
+Dependencies FR05
+10
+Title Get Address
+ID FR10
+Description This Function is to get the address of the user and save it
+in address table in the database
+Type array
+Input -
+Action Check if the address is lled and validated
+Output array of address object
+Precondition Check if the user exists
+Post-condition Inserting an address record with the ID of user in address
+table in the database
+Dependencies FR05
+Title Create User Type
+ID FR11
+Description This Function is to add new user type to the system in the
+database
+Type Boolean
+Input User type name
+Action Checks if the user type name is validated, if so it enters the
+user type record in the database and returns true else it
+returns false to show error message
+Output if usertype created
+Precondition Check if the user type exists
+Post-condition Creating a new row in the database table with new ID for
+the user type
+Dependencies -
+Title Delete User Type
+ID FR12
+Description This Function is to delete the selected user type row from
+user type table in database
+Type Boolean
+Input ID of the user type selected to be removed
+Action Check if the user type id exists in the database to delete it
+Output if usertype deleted
+Precondition the selected user type needed to be removed
+Post-condition Updating the database by removing the user type id row
+from the user type table
+Dependencies -
+11
+Title List User Types
+ID FR13
+Description This function for listing all the user types that exists in the
+database
+Type returns array
+Input -
+Action Retrieving all user types in the database
+Output array by each user type
+Precondition check if the user type exists
+Post-condition -
+Dependencies FR11
+Title Update User Types
+ID FR14
+Description This Function is for updating the user types according to
+the ID if there were any changes or modications
+Type Boolean
+Input User type ID to be updated
+Action Check if the user type is updated and return true else it
+returns false to show error message
+Output if user type updated
+Precondition check if the user type exists
+Post-condition Update the system database row of the user type in user
+type table
+Dependencies FR11
+Title Create Player
+ID FR15
+Description This Function called after FR05 which adds a new player
+record to the system's database from the coach module
+Type Boolean
+Input Player object
+Action Check if FR05 is red and that all elds in the Player ob-
+ject are lled then insert a new record to the database and
+returns true
+Output if player created
+Precondition the player's information needed to be entered is inserted in
+its write place and validated
+Post-condition A new player's record is created with new ID for the player
+Dependencies FR05
+12
+Title Delete Player
+ID FR16
+Description This function called after FR06 which deletes the player
+record in the database
+Type Boolean
+Input Player object
+Action Check if FR06 is red and The player's record exists in the
+database to delete it
+Output player's record is deleted and returns true, else returns false
+to show error message
+Precondition select the player to be deleted
+Post-condition The record of the player is deleted from the database
+Dependencies FR00 , FR01 , FR05 , FR06 , FR10
+Title List Players
+ID FR17
+Description This function is called after FR07 which lists the players
+records in the database
+Type return array
+Input player object to be listed
+Action Check if FR07 is red and list all the information about the
+player
+Output Array by each player's data
+Precondition Check if the player exists
+Post-condition -
+Dependencies FR00 , FR01 , FR05 , FR07 , FR10
+Title Search Player
+ID FR18
+Description This Function called after FR08 which searches for player's
+record in the database
+Type return array
+Input player object
+Action Check if FR08 is red up and then search for the player's
+ID
+Output Array of player's data
+Precondition Check if the player exists
+Post-condition -
+Dependencies FR00 , FR01 , FR05 , FR08 , FR10
+13
+Title Update Player
+ID FR19
+Description This Function called after FR09 which updates the existing
+player's information in the database
+Type Boolean
+Input Player object
+Action Check if FR09 is red up and The player data is updated
+Output if user is updated returns true, else it returns false to show
+error message
+Precondition Check if the player exists
+Post-condition The record of the player is updated in the database
+Dependencies FR00 , FR01 , FR05 , FR09 , FR10
+Title Start training
+ID FR20
+Description functions classies the strokes and get all strokes played and
+store with its timestamp
+Type Void
+Input start Training TimeStamp and array of strokes
+Action if inputs does not equal to null then functions starts classi-
+cation and storing data into database
+Output -
+Precondition player press start training button
+Post-condition stroke classied and player notied and database records are
+added
+Dependencies -
+Title End Training
+ID FR21
+Description functions stops (FR20) and get out a full report about the
+performance through training period
+Type Object
+Input end Training TimeStamp and array of strokes
+Action if FR20 is red, the function stops it
+Output object of Report class
+Precondition FR20 to be red
+Post-condition a report will be viewed to the coach and player
+Dependencies FR20
+14
+Title View Prole
+ID FR22
+Description This Function is for the user to view his/her prole that
+contain all the data existed in the database
+Type return array
+Input User Type object
+Action Check if FR11 is red and retrieve all the data of the user
+Output Array by each user's data
+Precondition Check if the user exists
+Post-condition -
+Dependencies FR11
+Title Create Club
+ID FR23
+Description This Function is to add new club record in the database to
+assign it to players
+Type Boolean
+Input Club object
+Action Check if the club's name , address and rate are validated
+and if so it inserted in the database and returns true else it
+returns false to show error message",Non-Functional
+TrainIt_SRS_Document.pdf,"6 Portability
+The system could be implemented on dierent operating systems such as An-
+droid or iOS",Non-Functional
+TrainIt_SRS_Document.pdf,The system,Non-Functional
+TrainIt_SRS_Document.pdf,"3 Usability
+Proportion of functionalities or tasks mastered doesn't need time to be learned",Non-Functional
+TrainIt_SRS_Document.pdf,"3 Scenario 3
+A table tennis player wants to practice alone after the training, so he can easily
+put the set up, play and analyze himself and monitor his performance after
+26
+playing for a couple of hours through the mobile application that shows his
+analytics and full report",Non-Functional
+TrainIt_SRS_Document.pdf,"Otherwise, the
+stroke will be classied as unknown movement
+Output Stroke Classied result
+Precondition Array of cutted strokes(FR38) and ltered strokes (FR37)
+Post-condition Database is updated and stroke marked as classied
+Dependencies FR36 , FR37 , FR38
+Title Create Report
+ID FR36
+Description This function is for the coach to create a full reports about
+the players after training periods
+Type Void
+Input Player object and Stroke Classied object
+Action If the inputs are not empty the report will be generated
+Output -
+Precondition The coach choose player to create report on
+Post-condition Report will be shown on the screen for the coach
+Dependencies -
+19
+Title Calculate Performance
+ID FR37
+Description This function calculate the the performance of the player
+according to the results of the correct strokes and wrong
+strokes played
+Type Performance object
+Input Object from player results
+Action Calculate the number of correct stroke and wrong and cal-
+culate the total performance of the player
+Output Object from performance
+Precondition Check if the player has result record is database
+Post-condition Calculate the player performance
+Dependencies FR15, FR20
+20
+4 Interface Requirements
+4",Non-Functional
+TrainIt_SRS_Document.pdf,"4 Reliability
+The system is reliable",Non-Functional
+TrainIt_SRS_Document.pdf,"5 Maintainability
+The system ensures ease of maintainability through the implementation of MVC",Non-Functional
+TrainIt_SRS_Document.pdf,"2 Scalability
+The system should be highly scalable as we are dealing with many techniques
+of playing and training for table tennis strokes",Non-Functional
+TrainIt_SRS_Document.pdf,"1 Performance and Speed
+As the system deals with many techniques of playing, it must be interactive
+and the detection and classication must have no delays to give a reliable online
+feedback",Non-Functional
+TrainIt_SRS_Document.pdf,"1 GUI
+Figure 8: Daily Report about
+the player performance
+Figure 9: Real-time monitor-
+ing Window about player move-
+ments
+21
+Figure 10: Augmented reality glasses
+4",Non-Functional
+TrainIt_SRS_Document.pdf,"22
+5 Performance Requirements
+The system shall be able to process a huge number of points (x,y,z) per window",Non-Functional
+TrainIt_SRS_Document.pdf,"Our aim is to develop a full guiding system
+that's supposed to help the athletes/users enhance their performance in play-
+ing table tennis",Non-Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The application can be used by any number of
+users and an admin will have access to the application through the admin side.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The admin shall be able to view users’ information.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The system can also identify
+eleven different colors which are red, orange, yellow, green, cyan, blue, purple, pink, black, grey,
+and white.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The user can
+choose what he wants to be recognized as either object, text, or face.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to sign up.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The system should be accessed across all platforms.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The user will have the option to start
+and stop the audio.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The user will be directed to the
+camera where an appropriate image will be taken through the input video stream taken by the
+camera.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The application shall produce audible output that correctly translates the output of
+the processed image to the user, and be able to correctly catch the audio commands given by the
+user.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to hear the audio menu.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to hear an identiﬁcation of the food in the captured image.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The system may be denied access to camera.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The application should be highly secure with the information entered when the user register in the
+application.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The user shall be able to hear an identiﬁcation of the color and pattern of an article of cloth
+in the captured image.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The system should be available at any network and any mobile phone at any time.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The user will be directed to the camera where an appropriate image will be
+taken through the input video stream taken by the camera.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The user will use face recognition to login or sign-up to the system and will be able to use pre-
+deﬁned voice commands that control certain features.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The admin shall be able to edit users’ information.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to upload image from mobile gallery.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The application will redirect to the dashboard the contains the list of users present in the system.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to login using facial recognition.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The application shall be easily maintained as the features integrated into it could be upgraded indi-
+vidually without the need to interrupt the overall cycle of the application.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The admin shall be able to remove users from the system.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The admin shall be able to login.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The user can read text from
+images by the photo to speech feature, Egyptian banknotes could be identiﬁed and the amount of
+money the user carries.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The user will be directed to the camera where an appropriate image will be taken then the user will
+hear an audio of text present in the image.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to hear an the amount of money in the captured image.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The application should correctly
+detect the objects present in the image and the output from the processing should produce the most
+accurate result.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The admin can view all the users registered in the system.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The application shall allow users to use speciﬁc voice commands to access the
+application’s functionalities and have all the produced output be converted to audio to be heard by
+the user.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The admin shall be able to logout.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The system must be reliable when performing its operations.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The admin can view the information saved about the users, edit the information
+or delete a user from the application.",Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to log out.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The user shall be able to capture an image with the help of the system.,Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The application,Non-Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"7 Availability
+The system should be available at any network and any mobile phone at any time",Non-Functional
+VisuallyImpairedAssistant_srs_doc.pdf,The system,Non-Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"3 Usability
+The system functionalities shall not be hard for the visually impaired to use as the system could be
+easily navigated",Non-Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"The overall performance
+of the application shall be recorded to allow for improvement of the performance",Non-Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"“Analysing the mental model of blind users in mobile
+touch screen devices for usability”",Non-Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"2 Reliability
+The system must be reliable when performing its operations",Non-Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"5 Portability
+The system should be accessed across all platforms",Non-Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"4 Maintainability
+The application shall be easily maintained as the features integrated into it could be upgraded indi-
+vidually without the need to interrupt the overall cycle of the application",Non-Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"1 Security
+The application should be highly secure with the information entered when the user register in the
+application",Non-Functional
+VisuallyImpairedAssistant_srs_doc.pdf,"6 Scailability
+The system should be highly scalable as it should be easily scaled up or down without interrupting
+the overall performance",Non-Functional

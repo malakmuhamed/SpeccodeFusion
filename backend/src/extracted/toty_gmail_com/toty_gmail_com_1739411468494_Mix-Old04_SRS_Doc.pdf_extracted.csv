@@ -1,0 +1,162 @@
+filename,requirement,label
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"The user must have working computer (pc) or (labtop) connected to internet to use our tool (web-
+site) and examine the code ,and if the ram from 4 GB to up will be better to have good quality and
+experience .",Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"The system shall integrate with external tools like the ESLint/Checkstyle engine for en-
+hanced code analysis.",Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"The system should provide real-time feedback to developers, with a maximum response time for
+error detection and coding style feedback.",Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"The system shall define different user roles, including developer and admin.",Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"The system should support updates and patches, ensuring minimal downtime and user dis-
+ruption during maintenance activities.",Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,The system shall accept code files in common programming languages.,Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"The system should allow
+simple user registration, guiding the user through an easy process that introduces key features and
+gamification elements.",Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"The system
+should efficiently analyze the code, providing feedback on coding style, and runtime complexity.",Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,The system shall verify the uniqueness of usernames and email addresses during registration.,Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,The system shall aim to improve the development cycle by a specified percentage (e.,Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,The system shall maintain a dynamic leaderboard ranking developers based on code quality.,Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"5 Compatibility
+The tool should be compatible with major web browsers, including Chrome, Firefox, Safari, and
+Edge",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"• Regular monitoring and optimization of system performance shall be conducted to ensure
+efficient code analysis and responsiveness",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,7 Scalability,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"3 Scenario (3): Performance Analysis and Optimization
+The developer starts by logging into the system and he is working on a program and wants measure
+runtime complexity of code",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"3 Performance
+The system should provide real-time feedback to developers, with a maximum response time for
+error detection and coding style feedback",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,DependencyDependent on accurate user performance data,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,3 Scenario (3): Performance Analysis and Optimization,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,5 Compatibility,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"6 Scenario (6): Putting/update the check styles roles and performance ex-
+pectation
+The technical lead starts by logging into the system and then choose the checkboxes that he want
+to check on the developers code and the expectation of the performance of the code",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,2 Reliability,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,Dependency on external tools may introduce compatibility issues,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"6 Usability
+• The user interface should be engaging yet simple, with clear navigation and visually appeal-
+ing elements",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"In: Performance Evaluation of a Code
+Complexity Measurement Tool: An Empirical Approach",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"Therefore, in
+order to achieve that, the system will contain the following :
+• Style Feedback: Evaluate and provide feedback on coding style, ensuring compatibility to
+coding standards and best practices",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"6 CRUD Page
+This part will contain the stored styles that the technical lead enter and the performance expecta-
+tions so that the check style engine and the performance check can compare the submitted code
+with rules that the technical lead enter",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,InputUser performance data (e,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"4 System Context
+As shown in Figure 4, the developer will submit his code for review and then the system will return
+for him a feedback about the styles and the complexity of code and increase or decrease his points
+in leaderboard in the gamification system according to the review, also the technical lead will press
+on checkboxes of the styles that he want the system to on the submitted code and the performance
+expectations of the submitted code so the system can review the code of the developer and return
+feedback",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"“LEARNING PERFORMANCE-
+IMPROVING CODE EDITS”",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"This tool help in estimate the worst-case time complicity of any algorithm and this will apply
+several benefits :
+• Optimization: By analyzing the worst-case time complexity of an algorithm, programmers
+and algorithm experts can identify areas where the algorithm can be optimized to improve its
+performance This can result in faster algorithms and effective results, which can be important
+in applications where speed and efficiency are critical",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"The system integrates with external tools like the ESLint/Checkstyle engine
+for enhanced code style and others for performance",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"2 Code Reviewing and Gamified interface
+In this interface the developer submit his code to review it and receives the feedback for styles and
+performance expectations from the system and to show his score in the leaderboard with the other
+developers",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,RiskInaccuracies in user performance data may affect leaderboard accuracy,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"• Comparison: Considering the worst-case time complexity of different algorithms can help
+programmers and system experts to compare the efficiency of different approaches to solving
+the same problem this can help them to choose an algorithm most effective for a given
+problem",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"2 System Overview
+As shown in Figure 3, that there are two users for the system the first user is the technical lead who
+will enter the styles and the performance Expectation of the company to the admin view then this
+data will stored in CRUD page, in the other view for the developer who will submit his code in
+his interface then the comparison system will compare between the code that the developer entered
+and the styles and the performance Expectation that the technical lead enter , so it check if the style
+matches and performance matches and then give it points based on the results for the gamification
+system and send the feedback back to the interface so the developer could see the review response",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"Participants receive gamified rewards and recognition based on their
+performance and the efficiency of their code",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,6 Scenario (6): Putting/update the check styles roles and performance expectation,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,6 Usability,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"1 Admin View
+In this interface the technical lead choose the styles he want to apply in the check of code style
+in the check style engine integration and the expectations of the performance of the code so that
+the machine learning can give the review on the code submitted",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,The system,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"2 Detailed Functional Specification
+Table 2: Automated Code Reviews
+Function Name Automated Code Reviews
+Code ID:06
+Priority High
+Critical Level Critical
+DescriptionThis function involves implementing an automated code review system to analyze
+submitted code for style and performance issues",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,1 Security,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,4 Performance Check,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"2 Reliability
+• The system should maintain at least 99 percentage availability at all times",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"“Performance Evaluation of a Code Com-
+plexity Measurement Tool: An Empirical Approach”",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"Code reviewing and gamification
+interface In this interface the developer submit his code to review it and receives the feedback for
+styles and performance expectations from the system and to show his score in the leaderboard with
+the other developers",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"their performance and the efficiency
+of their code",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"In: LEARNING PERFORMANCE-IMPROVING CODE ED-
+ITS",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"6 System Performance
+ID:13 Performance Improvement
+• The system shall aim to improve the development cycle by a specified percentage (e",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,OutputAnalysis report highlighting style and performance issues,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,Inadequate security measures may result in unauthorized profile access,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"Traditional code review processes often
+lack efficiency and fail to engage developers",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"• Benefits and Applications: The paper discusses the potential applications of the proposed so-
+lution, such as automated coding assignments, IDE-integrated tools for static code analysis,
+and other areas of real-time data providing code efficiency is valuable",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"1 Security
+Access to the tool must be secured through robust user authentication mechanisms, supporting
+multi-factor authentication for enhanced security",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"4 Maintainability
+• The source code of the tool should be well-documented, providing clear and concise docu-
+mentation for developers contributing to the project or extending its functionality",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,DependencyDependent on the availability and proper configuration of external code analysis tools,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,Pre-conditionUser performance data is accurate and up-to-date,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,6 System Performance,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,", style rules, performance thresholds)",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"4 Performance Check
+In this part the AST Parsing will used to analysis the code that submitted from the developer and
+count how many if conditions, for loops, while loops, nested loops and so on, so generate the code
+features report that will used in the machine learning model",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"• Debugging: Measuring the maximum time complexity of an algorithm can help program-
+mers and algorithms identify performance issues and potential bugs code issues You can
+perform the analysis
+Overall, measuring the most complex time of an algorithm can help programmers and algorithms
+to optimize their code, choose the most efficient algorithm for a given problem, determine how
+algorithm will be activated as input data size grows, and performance issues and potential code
+errors have been identified",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"It describes the features, setbacks
+and performance expectations that lay the foundation for the development team to build simple and
+easy-to-use tools that meet the needs of the target users",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,4 Maintainability,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,3 Performance,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,Points are attributed to developers based on their performance,Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"• Efficiency and scalability: Identify areas to improve code efficiency and scalability using
+dynamic complexity analysis",Non-Functional
+toty_gmail_com_1739411468494_Mix-Old04_SRS_Doc.pdf,"7 Scalability
+The tool must scale efficiently to tolerate codebases of different sizes, supporting projects ranging
+from small to large-scale software systems",Non-Functional
